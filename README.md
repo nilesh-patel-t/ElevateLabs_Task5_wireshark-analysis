@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This repository contains the deliverables for Task 5: Capture and Analyze Network Traffic Using Wireshark, as part of the Cyber Security Internship. [span_0](start_span)The task involved capturing live packet data, filtering it, and identifying key network protocols to demonstrate hands-on protocol awareness and packet analysis skills[span_0](end_span).
+This repository contains the deliverables for Task 5: Capture and Analyze Network Traffic Using Wireshark, as part of the Cyber Security Internship. (start_span)The task involved capturing live packet data, filtering it, and identifying key network protocols to demonstrate hands-on protocol awareness and packet analysis skills[span_0](end_span).
 
 ## 🎯 Deliverables Submitted
 
